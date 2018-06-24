@@ -1,0 +1,46 @@
+Overview
+
+Web application where users can order food online based on customer reviews and reccomendations.Resturant owners will be able to signup and upload their menu,get food orders etc and the admin will be able to approve resturant requests and maintain the overall applications.
+
+
+Basic Use Cases.
+
+Admin
+	-can login
+	-can add other admins
+	-can edit admin profile
+	-can view resturants
+	-can ban resturants
+	-can view users
+	-can ban users
+	-can approve resturants
+	-can edit user info
+	-can edit resturant info
+	-View reports
+	- 
+Resturant Owner
+	-can signup
+	-can login
+	-upload menu
+	-can edit menu
+	-update profile
+	-can view reviews
+	-can view reports
+
+Client
+	-can select/search area
+	-can view resturants
+	-can view menu of individual resturants
+	-can add food to cart
+	-can checkout
+	-can review ordered food
+	-can view reviews
+	-Client can Login
+	-can logout
+	-can register
+	-can edit profile
+	-can change password
+Reviewer(optional)
+	-can enter token number
+	-can view resturant review page
+	-can review resturants
